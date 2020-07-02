@@ -1,0 +1,5 @@
+keras==2.2
+gensim==3.5
+tensorflow==2.0
+ijson
+nltk
